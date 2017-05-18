@@ -11,3 +11,9 @@ go run main.go
 637 De Otter 0.42759532
 635 De Bloem 0.75619304
 ```
+
+## How?
+
+Thanks to the great informatoin from https://molendatabase.nl.
+The project downloads the files (to not overload the servers or cause any extra load on their site) and creates a local db with the windmills.
+Then, the distance calculation is done with a SQLite query.
