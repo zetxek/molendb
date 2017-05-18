@@ -17,3 +17,7 @@ go run main.go
 Thanks to the great informatoin from https://molendatabase.nl.
 The project downloads the files (to not overload the servers or cause any extra load on their site) and creates a local db with the windmills.
 Then, the distance calculation is done with a SQLite query.
+
+## What else?
+
+Well, as the idea was playing a little bit with golang, let's organize the repo better.
